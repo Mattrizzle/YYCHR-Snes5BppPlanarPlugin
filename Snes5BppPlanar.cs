@@ -13,7 +13,7 @@ namespace Snes5BppPlanar
             base.Name = "5BPP SNES Planar(NBA Jam/TE)";
             base.Extension = "smc,sfc,fig";
             base.Author = "Mattrizzle";
-            base.Url = "https://github.com/Mattrizzle/YYCHR-Snes5BppPlanar-Plugin";
+            base.Url = "https://github.com/Mattrizzle/YYCHR-Snes5BppPlanarPlugin";
             // Flags
             base.Readonly = false;
             base.IsCompressed = false;
