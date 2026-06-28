@@ -1,4 +1,4 @@
-# YYCHR-Snes5BppPlanar
+# YYCHR.NET SNES 5Bpp Planar Plugin
 Plugin for YY-CHR to handle an obscure SNES 5bpp planar format used only by the player portraits in NBA Jam and NBA Jam Tournament Edition.
 This is based on the YY-CHR SNES 8bpp planar plugin by mrehkopf a.k.a. ikari_01: https://github.com/mrehkopf/YYCHR-Snes8BppPlanar
 
